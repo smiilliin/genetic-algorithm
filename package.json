@@ -1,0 +1,25 @@
+{
+  "name": "genetic-algorithm",
+  "version": "1.0.0",
+  "description": "Genetic algorithm library",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "ts-mocha test/test.spec.ts",
+    "dev": "nodemon -e ts -w src/index.ts"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "machine",
+    "genetic",
+    "algorithm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.12.7",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.4.5"
+  }
+}

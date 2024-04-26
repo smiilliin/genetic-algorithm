@@ -1,6 +1,6 @@
 {
   "name": "@smiilliin/genetic-algorithm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Genetic algorithm library",
   "main": "src/index.ts",
   "scripts": {

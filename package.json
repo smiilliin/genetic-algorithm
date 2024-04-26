@@ -1,8 +1,8 @@
 {
   "name": "@smiilliin/genetic-algorithm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Genetic algorithm library",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
     "test": "ts-mocha test/test.spec.ts",
     "dev": "nodemon -e ts -w src/index.ts"

@@ -1,11 +1,15 @@
 {
-  "name": "genetic-algorithm",
+  "name": "@smiilliin/genetic-algorithm",
   "version": "1.0.0",
   "description": "Genetic algorithm library",
   "main": "src/index.ts",
   "scripts": {
     "test": "ts-mocha test/test.spec.ts",
     "dev": "nodemon -e ts -w src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smiilliin/genetic-algorithm"
   },
   "keywords": [
     "ai",

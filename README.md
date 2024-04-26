@@ -2,6 +2,13 @@
 
 Genetic algorithm library
 
+![minimum point](https://github.com/smiilliin/genetic-algorithm/assets/121614843/538f42da-5c72-4d10-90b2-efeb468febe3)
+
+## Install
+```bash
+npm install @smiilliin/genetic-algorithm
+```
+
 ## Usage
 
 ### Gene.get
